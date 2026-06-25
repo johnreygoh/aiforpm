@@ -206,6 +206,15 @@ better:
 
 [formatting] output your response using markdown headers for each user story with the acceptance criteria listed as sub-bullet points.
 
+----------------------------------------------------------------
+
+activity 4 : chained-prompting method for escalation email workflows
+
+multi-stage stakeholder communication plan without starting a new chay session
+
+1. root analysis
+act as a senior project manager. our project, led by PM Rod, has encountered a 3-week delay because our primary vendor failed to deliver the security audit clearance documentation. the project sponsor is mr.escudero.
+First, analyze this scenario and list 3 immediate downstream impacts this delay will cause on subsequent project phases. 
 
 
 
