@@ -144,5 +144,17 @@ core goals: add gcash/maya payment integrations, reduce checkout page load time
 to under 2 minutes, and implement biometric login system
 
 
+-----------------------------------------
+to check:
+
+1. project details 
+2. check for hallucinations 
+
+p:
+verify your response for validity, relevance, and possible hallucinations 
+
+
+
+
 
 
