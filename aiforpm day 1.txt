@@ -205,16 +205,43 @@ cybersecurity training software.
 "Approving of the final training curriculum"
 3. output the RACI matrix as a clean markdown table.
 
-
-
-
-
-
-
 -------------------------------------------------------------------
 Automating Scope Definition
-- WBS Generation
-- "scope creep" analyzer
+- WBS Generation		AI-assistants
+- "scope creep" analyzer	AI-assistants
+
+activity 7: WBS generation
+
+generate a strictly formatted, multi-level work breakdown structure
+
+p:
+act as a technical project manager. 
+I am managing  the rollout of a new physical server room in our Manila office.
+create a detailed work breakdown structure (WBS) down to Level 3 
+(Project -> Deliverable -> Work Package)
+
+focus specifically on these three major phases:
+1. Infrastructure Preparation (HVAC, Power, Cabling)
+2. Hardware Installation (Racks, Servers, Switches)
+3. Testing and handover
+
+present the output as a nested numbered list. Do not include Software configuration.
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
 
 Schedule Optimization with AI
 - Sequential Gantt Data
