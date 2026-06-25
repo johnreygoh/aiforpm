@@ -90,7 +90,20 @@ dev flow (azure devops), power automate, planner, projects
 
 -----------------------------------------------------------------
 
+activity 1: building a comprehensive project charter blueprint from scratch
 
+gen ai to transform raw, unstructured ideas into a charter draft
+
+1. project notes
+
+project name: Project Agila - E-Commerce Mobile App Upgrades
+project manager: loren
+sponsor: pia
+key stakeholder: sonny
+budget: PHP 2,500,000
+deadline: 6 months from today
+core goals: add gcash/maya payment integrations, reduce checkout page load time 
+to under 2 minutes, and implement biometric login system
 
 
 
