@@ -192,6 +192,23 @@ activity 3: design a multi-variable prompt for agile user story generation
 bad:
 write some user stories for a login page.
 
+better:
+[role] act as an expert agile business analyst specializing in financial technology platform.
+
+[context] PM Ronaldo is managing the delivery of a new secure mobile banking portal. Senator Robin is the executive sponsor who demands strict adherance to security compliance.
+
+[task] draft 3 comprehensive User Stories for the 'Two-Factor Authentication (2FA)' feature configuration.
+
+[constraints] 
+1. each story must precisely follow the format: 'As a [user role], I want to [action] so that [benefit].'
+2. every user story must include at least 3 distinct Acceptance Criteria using Given-When-Then behavioral framework.
+3. ensure one user story specifically handles an error path (e.g., wrong OTP entered)
+
+[formatting] output your response using markdown headers for each user story with the acceptance criteria listed as sub-bullet points.
+
+
+
+
 
 
 
