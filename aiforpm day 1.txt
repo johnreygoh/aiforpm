@@ -153,6 +153,32 @@ to check:
 p:
 verify your response for validity, relevance, and possible hallucinations 
 
+------------------------------------------- 
+
+activity 2: run a predictive risk assessment simulation for a project and build a Risk Register Matrix
+
+rctcf:
+
+act as a senior risk management officer in IT Infrastructure. PM Alan is managing a migration of a core database system to a hybrid cloud environment. Stakeholder Risa requires 99.99% uptime compliance throughout the transition.
+
+brainstorm 5 highly-realistic, critical technical and operational risks for this specific project. for each risk, provide:
+1. Risk ID (e.g., RISK-01)
+2. Risk Description
+3. Probability (High/Medium/Low)
+4. Impact (High/Medium/Low)
+5. Proactive Mitigation Strategy
+6. Reactive Contingency Plan
+
+format the final output cleanly as a markdown table 
+
+
+
+
+
+
+
+
+
 
 
 
