@@ -253,21 +253,36 @@ the ideas but explaining the change control process and how these will affect
 the current timeline.
 
 
-
-
-
-
-   
-
-
-
-
-
-
+--------------------------------------------------------------------
 
 Schedule Optimization with AI
-- Sequential Gantt Data
-- What-if Scenario Tests
+- Sequential Gantt Data		ai-assistant
+- What-if Scenario Tests	ai-assistant
+
+core capabilities:
+- predictive task duration
+- critical path adjustment
+- resource leveling
+
+
+activity 9: ask llm to logically sequence tasks, define dependencies, and 
+estimate durations
+
+p:
+
+act as a Master Scheduler.
+
+i am running a 4-week project to shoot and edit a commercial video.
+
+generate a schedule data table with the following columns: 
+task id, task name, estimated duration (in days), predecessor (task id that 
+must be finished first), and Resource Role.
+
+endure you include logical phases: pre-production, Production (shooting), and
+post-production. keep the total timeline strictly under 20 working days. 
+
+output as markdown table.
+ 
 
 
 
