@@ -105,15 +105,43 @@ deadline: 6 months from today
 core goals: add gcash/maya payment integrations, reduce checkout page load time 
 to under 2 minutes, and implement biometric login system
 
+2. prompting:
 
+Bad = 
+create a project charter draft using the following details: 
 
+project name: Project Agila - E-Commerce Mobile App Upgrades
+project manager: loren
+sponsor: pia
+key stakeholder: sonny
+budget: PHP 2,500,000
+deadline: 6 months from today
+core goals: add gcash/maya payment integrations, reduce checkout page load time 
+to under 2 minutes, and implement biometric login system
 
+Better = 
 
+RCTCF (role,content,task,*constraints,formatting)
 
+act as an elite enterprise project management consultant. 
+i will provide you with raw notes for a new project.
+i need you to generate a comprehensive, professional Project Charter Draft.
+use a clean hierarchical structure with the following sections:
+1. project identification (name, PM:Loren, Sponsor:Pia, Key Stakeholder:Sonny)
+2. Business Case & Objectives (include measurable KPIs based on the goals)
+3. project scope (in-scope vs out-scope boundaries based on goals)
+4. high-level milestone schedule (map out 6 months logically)
+5. high-level risks and constraints (infer 3-4 realistic risks based on technology stack)
 
-
-
-
+here are the raw notes:
+project name: Project Agila - E-Commerce Mobile App Upgrades
+project manager: loren
+sponsor: pia
+key stakeholder: sonny
+budget: PHP 2,500,000
+deadline: 6 months from today
+core goals: add gcash/maya payment integrations, reduce checkout page load time 
+to under 2 minutes, and implement biometric login system
 
 
 
