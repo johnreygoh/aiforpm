@@ -1,0 +1,107 @@
+1. https://github.com/johnreygoh/aiforpm
+2. copilot / gemini / chatgpt / claude
+3. app list
+4. prompting do not use "BSP" (or other PII info)
+5. results vary
+---------------------------------------------------------
+
+pm tools 
+-atlassian (jira / confluence)
+-project 
+-power automate / zapier 
+-transcribe
+-copilot facilitator
+
+-------------------------------------------------
+
+prompting
+1. general vs specific
+
+"create a complete project management charter for [project], 
+[description]"
+
+2. prompt guides? natural language processing (NLP)
+
+historical prompt vs current need
+
+"context window" = extended scope of llm
+
+data sources
+llm:
+-training data
+-auto check sources online
+-extended (context window):
+	user history
+	uploaded context
+	format?
+
+current landscape of AI in PM:
+3 maturity levels:
+-AI Assistants (GenAI): 
+draft project charters
+meeting summaries
+stakeholder emails
+risk logs
+
+-AI Advisors (Analytics):
+description / prediction / prescription
+measurement
+
+-AI Automation (power automate / zapier / accio / n8n / ...)
+workflow pipeline
+
+----------------------------------------------
+
+AI Tool Integration based on steps
+
+project phase
+0. pre-project 			ai-assistants (gen ai)
+- project proposal
+- business cases
+- statement of archi
+
+1. initialization / initiation ai-assistants (gen ai)
+- draft project charters
+- stakeholder matrix
+
+2. planning			excel (copilot), jira/asana/clickup ai
+- wbs
+- risk logs / risk registers
+- sprint schedules
+
+3. execution			teams/outlook (copilot), slack ai
+- daily standups summary
+- progress reporting
+- automated task routing
+
+4. closing			ai-assistants (gen ai)
+- retrospectives (synthesize) 
+- lessons learned
+- project closure
+
+
+options:
+1. multiple, isolated ai tools
+2. use an enterpise ai tool for pm 
+(clickup, trello, asana, atlassian, monday)
+3. ms365
+dev flow (azure devops), power automate, planner, projects
+4. custom pm AIO ai tool
+
+-----------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
