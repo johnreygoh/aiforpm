@@ -219,7 +219,8 @@ First, analyze this scenario and list 3 immediate downstream impacts this delay 
 2. direct escalation
 based on the impacts, draft a formal escalation email from PM Rod to the vendor's account director, requesting am urgent remediation meeting. The email must be firm, objective, specify a deadline for response within 24 hours, and mention that sponsor mr.escudero has been briefed on the issue.
 
-
+3. executive summary
+now, condense the entire situation into a 3-bullet executive summary tailored for an executive dashboard read by sponsor mr. escudero. Focus on status, financial impact (estimate a realistic penalty cost), and next steps. Keep it incredibly concise.
 
 
 
