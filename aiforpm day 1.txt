@@ -216,7 +216,8 @@ multi-stage stakeholder communication plan without starting a new chay session
 act as a senior project manager. our project, led by PM Rod, has encountered a 3-week delay because our primary vendor failed to deliver the security audit clearance documentation. the project sponsor is mr.escudero.
 First, analyze this scenario and list 3 immediate downstream impacts this delay will cause on subsequent project phases. 
 
-
+2. direct escalation
+based on the impacts, draft a formal escalation email from PM Rod to the vendor's account director, requesting am urgent remediation meeting. The email must be firm, objective, specify a deadline for response within 24 hours, and mention that sponsor mr.escudero has been briefed on the issue.
 
 
 
