@@ -171,12 +171,26 @@ brainstorm 5 highly-realistic, critical technical and operational risks for this
 
 format the final output cleanly as a markdown table 
 
+-------------------------------------------------------------------------------
 
+iterate over the prompt:
+1. redo with modifications
+2. token costly
+3. change formatting / output
+4. avoid the ff terms: redo/reanalyze/rethink/rebuild
+5. use the ff instead: modify/fix/revise
+6. draft vs generate
+7. initial prompt -> iteration 1 -> iteration 2
 
+chained-prompting
+1. "continuation" based on recent response, context window
 
+--------------------------------------------------------------------------
 
+activity 3: design a multi-variable prompt for agile user story generation
 
-
+bad:
+write some user stories for a login page.
 
 
 
