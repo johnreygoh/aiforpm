@@ -229,6 +229,28 @@ present the output as a nested numbered list. Do not include Software configurat
 
 
 
+-------------------------------------------------------
+
+activity 8: identify scope creep in stakeholder communication
+
+p:
+act as a strict project management office auditor.
+
+here is our approved scope baseline for the "Website Redesign Project":
+- update homepage UI
+- migrate existing blog posts to new CMS
+- optimize images for mobile viewing
+
+here is an email just received from stakeholder lito:
+"hi team, the homepage ui looks great! while we are at it, can we also
+quickly rebuild the user login portal to match the new colors, and maybe 
+add a chat widget on the bottom right? Thanks!"
+
+task:
+1. identify any elements in lito's email that constitues scope creep.
+2. draft a professional, diplomatic response email from the PM acknowledging
+the ideas but explaining the change control process and how these will affect
+the current timeline.
 
 
 
