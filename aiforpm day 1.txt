@@ -189,6 +189,24 @@ if any critical project information is missing from the transcript,
 create a section called "Clarifications Needed from Stakeholders".
 
 transcript: 
+-------------------------------------------------------------------------
+
+activity 6: Stakeholder Matrix Mapping
+
+RACI (Responsible, Accountable, Consulted, Informed)
+
+prompt:
+act as an enterpise project manager.
+PM Robin is leading the implementation of a new company-wide mandatory
+cybersecurity training software.
+1. identify 6 distinct stakeholder roles across different departments 
+(e.g., IT, HR, Legal)
+2. Map these stakeholders onto a RACI matrix for the specific task of
+"Approving of the final training curriculum"
+3. output the RACI matrix as a clean markdown table.
+
+
+
 
 
 
