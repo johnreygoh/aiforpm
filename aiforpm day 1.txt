@@ -153,82 +153,47 @@ to check:
 p:
 verify your response for validity, relevance, and possible hallucinations 
 
-------------------------------------------- 
+------------------------------------
+"AIO PM AI-Assisted"
+1. monday.com (try for free - PRO)
+2. clickup.com 
+3. asana.com
 
-activity 2: run a predictive risk assessment simulation for a project and build a Risk Register Matrix
-
-rctcf:
-
-act as a senior risk management officer in IT Infrastructure. PM Alan is managing a migration of a core database system to a hybrid cloud environment. Stakeholder Risa requires 99.99% uptime compliance throughout the transition.
-
-brainstorm 5 highly-realistic, critical technical and operational risks for this specific project. for each risk, provide:
-1. Risk ID (e.g., RISK-01)
-2. Risk Description
-3. Probability (High/Medium/Low)
-4. Impact (High/Medium/Low)
-5. Proactive Mitigation Strategy
-6. Reactive Contingency Plan
-
-format the final output cleanly as a markdown table 
-
--------------------------------------------------------------------------------
-
-iterate over the prompt:
-1. redo with modifications
-2. token costly
-3. change formatting / output
-4. avoid the ff terms: redo/reanalyze/rethink/rebuild
-5. use the ff instead: modify/fix/revise
-6. draft vs generate
-7. initial prompt -> iteration 1 -> iteration 2
-
-chained-prompting
-1. "continuation" based on recent response, context window
-
---------------------------------------------------------------------------
-
-activity 3: design a multi-variable prompt for agile user story generation
-
-bad:
-write some user stories for a login page.
-
-better:
-[role] act as an expert agile business analyst specializing in financial technology platform.
-
-[context] PM Ronaldo is managing the delivery of a new secure mobile banking portal. Senator Robin is the executive sponsor who demands strict adherance to security compliance.
-
-[task] draft 3 comprehensive User Stories for the 'Two-Factor Authentication (2FA)' feature configuration.
-
-[constraints] 
-1. each story must precisely follow the format: 'As a [user role], I want to [action] so that [benefit].'
-2. every user story must include at least 3 distinct Acceptance Criteria using Given-When-Then behavioral framework.
-3. ensure one user story specifically handles an error path (e.g., wrong OTP entered)
-
-[formatting] output your response using markdown headers for each user story with the acceptance criteria listed as sub-bullet points.
-
-----------------------------------------------------------------
-
-activity 4 : chained-prompting method for escalation email workflows
-
-multi-stage stakeholder communication plan without starting a new chay session
-
-1. root analysis
-act as a senior project manager. our project, led by PM Rod, has encountered a 3-week delay because our primary vendor failed to deliver the security audit clearance documentation. the project sponsor is mr.escudero.
-First, analyze this scenario and list 3 immediate downstream impacts this delay will cause on subsequent project phases. 
-
-2. direct escalation
-based on the impacts, draft a formal escalation email from PM Rod to the vendor's account director, requesting am urgent remediation meeting. The email must be firm, objective, specify a deadline for response within 24 hours, and mention that sponsor mr.escudero has been briefed on the issue.
-
-3. executive summary
-now, condense the entire situation into a 3-bullet executive summary tailored for an executive dashboard read by sponsor mr. escudero. Focus on status, financial impact (estimate a realistic penalty cost), and next steps. Keep it incredibly concise.
-
-----------------------------------------------------------------------------------------------------------------------
-
+--------------------------------------------------------------
 
 AI for Project Initiation
 - create PC based on raw notes (transcript)
 - stakeholder matrix mapping
 
+Core Capabilities:
+- draft charters		ai-assistants
+- feasibility analysis		ai-assistants / pm tool (ex: clickup brain)
+- stakeholder mapping		ai-assistants / pm tool (ex: clickup brain)
+
+activities 5: create a pc based on a meeting transcript
+
+Transcript:
+"Hey everyone, so for this quarter, Alan want to revamp the checkout flow on
+the mobile app. We keep losing people at the payment screen. Risa from finance 
+says we have a $50k budget for third-party API integration if needed. We need
+this live before October of this year. If we don't fix this, we're projecting 
+a 15% drop in Q3 revenue."
+
+Prompt:
+act as a senior PMO manager. Read the transcript from a kickoff call.
+extract the information and generate a formal project charter draft.
+include the following sections: Executive Summary, business problem, 
+proposed solution, sponsor, budget, deadline, and business impact.
+
+if any critical project information is missing from the transcript, 
+create a section called "Clarifications Needed from Stakeholders".
+
+transcript: 
+
+
+
+
+-------------------------------------------------------------------
 Automating Scope Definition
 - WBS Generation
 - "scope creep" analyzer
@@ -236,6 +201,7 @@ Automating Scope Definition
 Schedule Optimization with AI
 - Sequential Gantt Data
 - What-if Scenario Tests
+
 
 
 
